@@ -1,0 +1,26 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+    padding: 20px 100px 20px 100px;
+
+}
+div {
+    background: white;
+    font-family: sans-serif;
+}
+button {
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.green-btn{
+    background-color: green;
+    color: white;
+}
+.orange-btn{
+    background-color: orange;
+    color: white;
+}
+.purple-btn{
+    background-color: purple;
+    color: white;
+}
